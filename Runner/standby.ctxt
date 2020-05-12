@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=standby
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ standby\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=standby()
+comment2.params=
+comment2.target=void\ pregatire()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=p
+comment4.target=void\ cadere(boolean)
+comment5.params=
+comment5.target=void\ sari()
+comment6.params=
+comment6.target=void\ cadere_libera()
+numComments=7
